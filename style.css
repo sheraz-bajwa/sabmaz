@@ -1,0 +1,172 @@
+#one, #two{
+    background-color: orangered;
+    
+    color: #fff;
+    margin-left: 30px;
+    
+    padding: 10px;
+
+}
+@media only screen and (max-width: 600px) {
+    container-fluid {
+      width: 100%;
+    }
+  }
+body
+{
+    background-image: url(images/wall.jpg);
+    
+} 
+
+  
+.container-fluid{
+    background-color: orangered;
+}
+
+
+.main2{
+    background-color: #853818;
+    color: white;
+    text-transform: capitalize;
+    margin-top: 30px;
+}
+.top{
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
+.contactus{
+    position: fixed;
+    left: 0px;
+    top: 190px;
+    
+    margin-left: 0px;
+}
+.navbarDropdown :hover{
+    color: #330d01 !important;
+}
+.heading{
+    text-align: center;
+    color: #330d01;
+    font-weight: bolder !important ;
+    margin: 20px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
+.dropdown-menu{
+    color: #330d01 !important;
+    font-weight: bolder;
+    text-transform: capitalize !important;
+}
+.abc{
+
+    margin-top: 30px;
+}
+.font{
+    color: orangered;
+    text-transform: capitalize;
+     justify-content: center;
+    margin-top: 30px;
+    text-align: center;
+}
+.heading>h2{
+    font-weight: bolder;
+}
+.nav-link dropdown-toggle :hover{
+    color: #330d01 !important;
+}
+.nav-link{
+    color: orangered !important;
+    font-weight: bold;
+
+}
+.navbar {
+    background-color: white !important;
+}
+.Container1{
+    background-color: orangered ;
+    padding: 10px;
+}
+.card{
+    width: 300px;
+  height: auto !important;
+
+}
+.btn-primary{
+    width: 100%;
+     background-color: orangered;
+
+}
+.btn-primary :hover{
+    background-color: silver !important;
+}
+.two{
+   
+    float: right;
+}
+.maincard{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.menu{
+    
+    display: flex;
+}
+
+.card-title{
+    color: #330d01;
+    font-weight: bolder;
+}
+.card-text
+{
+    color: orangered;
+    font-weight: bolder;
+}
+.banner{
+    margin-top: 30px;
+}
+.row1{
+    margin-top: 30px;
+}
+.footer{
+    background-color: #1798e8;
+    color: white;
+    padding: 10px;
+}
+.corona{
+    background-color: yellow;
+    border: 2px solid red;
+    margin: 30px;
+    text-align: center;
+    padding: 20px;
+
+}
+.corona1{
+    color: red;
+    font-weight: bolder;
+}
+.fiv{
+    margin: 30px;
+}
+.for{
+    border: 0px solid darkslategray;
+    background-color: #303030;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    justify-content: center;
+}
+.corona2{
+    color: black;
+    font-weight: bold;
+}
+.about2{
+    margin-top: 30px;
+    
+    
+}
+.code1{
+    margin-top: 30px;
+}
